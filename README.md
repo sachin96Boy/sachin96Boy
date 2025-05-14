@@ -67,7 +67,7 @@ I also design characters, short films, and UI animations using:
 <p align="center">
   <a href="https://sachin96boy.dev"><img src="https://img.shields.io/badge/-sachin96boy.dev-000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sachin96boy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sachin96boy@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sachinsupunthaka96@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
