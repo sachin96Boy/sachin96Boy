@@ -72,9 +72,11 @@ I also design characters, short films, and UI animations using:
 
 ---
 
-<div>
-  <a href="https://info.flagcounter.com/Tr9F"><img src="https://s01.flagcounter.com/countxl/Tr9F/bg_C4C4C4/txt_000000/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
+<p align="center">
+  <a href="https://info.flagcounter.com/Tr9F">
+    <img src="https://s01.flagcounter.com/countxl/Tr9F/bg_C4C4C4/txt_000000/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
 
 <!-- Footer with a flare -->
 <p align="center">
